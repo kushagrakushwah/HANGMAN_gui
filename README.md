@@ -39,7 +39,7 @@ Copy code
 HANGMAN_gui/
 ├── Hangmangit.py         # Main game file with GUI and logic
 ├── hangman_scores.txt    # Stores the number of wins and losses
-├── screenshot.png        # (Optional) Screenshot of the game UI
+
 └── README.md             # Project documentation
 ✨ Future Enhancements
 🔤 Add full-word guessing capability
