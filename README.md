@@ -39,7 +39,6 @@ Copy code
 HANGMAN_gui/
 ├── Hangmangit.py         # Main game file with GUI and logic
 ├── hangman_scores.txt    # Stores the number of wins and losses
-
 └── README.md             # Project documentation
 ✨ Future Enhancements
 🔤 Add full-word guessing capability
@@ -57,10 +56,6 @@ HANGMAN_gui/
 👨‍💻 Author
 Kushagra Kushwah
 GitHub: @kushagrakushwah
-
-📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for details.
 
 💬 Feedback
 Found a bug? Have an idea for improvement? Feel free to fork this repo, open an issue, or submit a pull request.
